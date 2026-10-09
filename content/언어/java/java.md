@@ -2,6 +2,7 @@
 
 ## 목차
 
+**00 자바**
 1. [[자바란]]: 자바의 특징, JVM, JRE, JDK, 가비지 컬렉션, 객체지향 언어, 하이브리드 언어
 
 **01 자료형과 변수**
@@ -17,6 +18,9 @@
 **04 제어문**
 6. [[조건문]]: if, if-else, else if, switch, 삼항 연산자
 7. [[반복문]]: for, while, do-while, 2중 반복문, break, continue
+
+**05 배열**
+8. [[배열]]: 선언과 생성, 인덱스, 길이, 배열 순회, 2차원 배열, 아스키 코드
 
 공통 참고자료
 [자바 무료 강의 2시간 완성 (1분 자바) - 나도코딩](https://www.youtube.com/watch?v=DNCBaeCoMug&list=LL&index=3&t=186s)
