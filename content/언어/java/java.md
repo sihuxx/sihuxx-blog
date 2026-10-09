@@ -14,5 +14,9 @@
 **03 문자열**
 5. [[문자열]]: 문자열 기능, 문자열 비교, 특수문자
 
+**04 제어문**
+6. [[조건문]]: if, if-else, else if, switch, 삼항 연산자
+7. [[반복문]]: for, while, do-while, 2중 반복문, break, continue
+
 공통 참고자료
 [자바 무료 강의 2시간 완성 (1분 자바) - 나도코딩](https://www.youtube.com/watch?v=DNCBaeCoMug&list=LL&index=3&t=186s)
