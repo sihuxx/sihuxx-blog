@@ -1,5 +1,7 @@
 # Fetch
 
+#기능대회
+
 ## 전송 방식 3가지
 
 ### 1. URLSearchParams (단순 데이터)
