@@ -14,4 +14,3 @@ title: sihuxx 블로그
 - [[python]]
 - [[typescript]]
 - [[NodeJS]]
-- [[저급 언어와 고급 언어]]
