@@ -9,8 +9,6 @@ title: sihuxx 블로그
 
 ## 목차
 
-- [[java]]
+- [[개발]]
+- [[언어]]
 - [[기능대회]]
-- [[python]]
-- [[typescript]]
-- [[NodeJS]]
