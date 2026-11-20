@@ -1,5 +1,5 @@
 - [[Git을 배워야 하는 이유]]
-- [[CLI vs GUL]]
+- [[CLI vs GUI]]
 - [[초기설정]]
 - [[gitignore]]
 - [[Git 기본 명령어]]

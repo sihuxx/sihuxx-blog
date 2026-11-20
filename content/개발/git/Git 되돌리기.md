@@ -32,8 +32,8 @@ git revert 커밋해시
 ## 3. checkout
 
 ```bash
-git checkout 커밋해시   # 과거 시점으로 이동
-git switch main         # 원래 브랜치로 복귀
+git checkout 커밋해시 # 과거 시점으로 이동
+git switch main # 원래 브랜치로 복귀
 ```
 
 - 과거 시점을 둘러보는 용도 (이 상태를 detached HEAD라고 부름)

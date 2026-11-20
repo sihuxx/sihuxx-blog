@@ -1,3 +1,4 @@
+![[Pasted image 20261120175334.png]]
 ## 1. CLI
 
 > Command Line Interface
