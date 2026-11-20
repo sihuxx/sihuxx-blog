@@ -124,7 +124,7 @@ Playwright로 첫 화면부터 사진 제보, 다시 길찾기까지 자동으�
 |음성|Web Speech API|
 |테스트 · 배포|Playwright, Netlify|
 
-### 2-5. 발표![[Pasted image 20261105171507.png]]
+### 2-5. 발표![[Pasted image 20261105171507.jpg]]
 
 5분 안에 문제, 데이터, AI, 시연, 기대 효과를 모두 담을 수 있도록 발표 흐름을 짰다.
 
